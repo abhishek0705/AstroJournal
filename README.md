@@ -110,8 +110,22 @@ AstroJournal/
 │       └── zodiac.ts
 ├── android/             # Android-specific code
 ├── ios/                # iOS-specific code
-└── __tests__/          # Test files
+├── __tests__/          # Test files
+└── Journal.webm        # Demo recording of journal functionality
 ```
+
+### 📹 Demo & Media Files
+
+- **Journal.webm**: A demonstration recording showcasing the journal functionality of the AstroJournal app. This video file provides a visual walkthrough of how users can interact with the journaling features, including writing entries, navigating through the interface, and experiencing the overall user flow.
+
+#### 🎥 Journal Functionality Demo
+
+<video width="100%" controls>
+  <source src="Journal.webm" type="video/webm">
+  Your browser does not support the video tag. You can download the video file directly: [Journal.webm](Journal.webm)
+</video>
+
+*Watch the demo above to see the AstroJournal app in action, showcasing the journaling features and user interface.*
 
 ## 🔧 Technical Stack
 
