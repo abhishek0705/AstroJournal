@@ -120,12 +120,13 @@ AstroJournal/
 
 #### 🎥 Journal Functionality Demo
 
-<video width="100%" controls>
-  <source src="Journal.webm" type="video/webm">
-  Your browser does not support the video tag. You can download the video file directly: [Journal.webm](Journal.webm)
-</video>
+![Journal Demo](Journal.webm)
 
-*Watch the demo above to see the AstroJournal app in action, showcasing the journaling features and user interface.*
+*Click the video above to watch the demo showcasing the AstroJournal app in action, including the journaling features and user interface.*
+
+**Note:** If the video doesn't play directly, you can:
+- Download the video file: [Journal.webm](Journal.webm)
+- View it in GitHub's file viewer by clicking the link above
 
 ## 🔧 Technical Stack
 
@@ -134,7 +135,6 @@ AstroJournal/
 - **Navigation**: React Navigation v7
 - **State Management**: React Context API
 - **Internationalization**: i18next & react-i18next
-- **Date Handling**: dayjs
 - **Storage**: AsyncStorage
 - **Styling**: React Native StyleSheet
 
@@ -172,12 +172,6 @@ AstroJournal/
   - Detailed astrological charts
   - Compatibility readings
 
-- **☁️ Cloud Synchronization**
-  - Cross-device data sync
-  - Backup and restore
-  - Data export/import
-  - Privacy-focused cloud storage
-
 - **🤝 Social Features**
   - Share horoscopes and insights
   - Community discussions
@@ -188,14 +182,7 @@ AstroJournal/
 - **🤖 AI-Powered Features**
   - Personalized horoscope generation
   - Smart journal prompts
-  - Mood pattern recognition
   - Predictive insights
-
-- **📈 Advanced Analytics**
-  - Life pattern analysis
-  - Goal tracking integration
-  - Habit formation insights
-  - Wellness recommendations
 
 ### Phase 5: Ecosystem Expansion
 - **🔮 Extended Astrology Services**
@@ -204,45 +191,5 @@ AstroJournal/
   - Numerology insights
   - Meditation guides
 
-- **🏢 Enterprise Features**
-  - Corporate wellness programs
-  - Team compatibility analysis
-  - Workplace astrology insights
-  - B2B partnerships
-
-## 📈 Growth Strategy & Product Insights
-
-### Target Market
-- **Primary**: Astrology enthusiasts (18-45 years)
-- **Secondary**: Wellness and mindfulness practitioners
-- **Tertiary**: Journaling and self-reflection users
-
-### Key Metrics to Track
-- **Engagement**: Daily active users, session duration
-- **Retention**: 7-day, 30-day retention rates
-- **Content**: Journal entries per user, horoscope views
-- **Growth**: User acquisition, referral rates
-
-### Monetization Opportunities
-- **Premium Features**: Advanced horoscope readings, detailed analytics
-- **Subscription Model**: Monthly/yearly premium access
-- **In-App Purchases**: Specialized readings, expert consultations
-- **Partnerships**: Astrology services, wellness brands
-
-### User Acquisition Strategy
-- **Content Marketing**: Astrology blogs, social media presence
-- **Influencer Partnerships**: Astrology influencers, wellness coaches
-- **App Store Optimization**: Keyword optimization, visual assets
-- **Community Building**: Forums, social features, user-generated content
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our contributing guidelines for details on:
-- Code style and standards
-- Pull request process
-- Issue reporting
-- Development setup
-
----
 
 **Built with ❤️ for the astrology and journaling community**
